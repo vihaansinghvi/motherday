@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background: linear-gradient( yellow 0%, green 50%);
+    font-family: 'Sansita Swashed', cursive;
+}
+#img1{
+    width:auto;
+    height: 400px;
+}
+#img2{
+    width:auto;
+    height: 400px;
+}
+
+
+
